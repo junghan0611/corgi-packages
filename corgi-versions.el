@@ -41,6 +41,7 @@
  ("smex" . "55aaebe3d793c2c990b39a302eb26c184281c42c")
  ("spinner" . "34905eae12a236753fa88abc831eff1e41e8576e")
 ;; ("string-edit.el" . "0e225df6f8740467231c787a50025e4552b3eddb")
+ ("string-edit.el" . "e285ada415b975a9eb70a7e065123923d9bf8798")
  ("swiper" . "7489968257a74f176c0d1de7ec8bd1e2011f0db4")
  ("treepy.el" . "3ac940e97f3d03e48ca9d7fcd74916a9b01c72f3")
  ("use-package" . "a7422fb8ab1baee19adb2717b5b47b9c3812a84c")
